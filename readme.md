@@ -1,86 +1,35 @@
-## 👋 Hi, I'm **Zayn ul Abideen**
+> Want to know what I'm currently working on ?\
+> Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
+> 
+> *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
+> - [x] [`mizu.js`](https://mizu.sh) will power the SVG templating
+> - [x] [`matcha.css`](https://matcha.mizu.sh) will offer the base design of SVG
+> - [x] [`vercel-deno`](https://github.com/lowlighter/vercel-deno) will let users self-host their own instance super easily and freely
+> - [x] [`astral`](https://github.com/lino-levan/astral/pulls?q=is%3Apr+author%3Alowlighter) will act as the sandboxed browser automation used to scrap the web and render SVGs
+> - [x] [`libs`](https://jsr.io/@libs) will expose a collection of utilitaries to make maintaining projects easier 
+> - [ ] [`esquie.app`](https://esquie.app) will allow the creation of metrics workflow to generate, render and publish infographics in a flexible way
+>   - → I'm working actively on this currently (updated 25 nov 2025)
+> 
+> *Thanks for your patience and continued support !*
 
-**MERN Stack Developer • Next.js Specialist • Building Scalable Web Applications & Interactive User Experiences**  
-Lahore, Punjab, Pakistan
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
+[<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
----
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
-### 👨‍💻 About Me
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-I’m a passionate **Full Stack Web Developer** with around **1 year of professional experience**, focused on building modern, scalable, and user-centric web applications.  
-
-My expertise lies in the **MERN stack (MongoDB, Express.js, React, Node.js)** and **Next.js**, enabling me to deliver:
-- **Robust backend APIs**
-- **High-performance, SEO-friendly frontends**
-- **Engaging, animated user interfaces**
-
-I especially enjoy crafting **interactive experiences** using tools like **GSAP** and **Three.js** to turn static designs into immersive products that boost user engagement.
-
-I’m actively looking to collaborate with **forward-thinking teams** and projects where I can contribute to impactful solutions across the stack.
-
----
-
-### 🧰 Tech Stack & Tools
-
-- **Frontend:** React, Next.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, GSAP, Three.js  
-- **Backend:** Node.js, Express.js, RESTful API Development, JWT Authentication  
-- **Databases:** MongoDB, Mongoose, SQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel, Netlify  
-
----
-
-### 💼 Experience
-
-- **Software Engineer — Forward Solutions**  
-  **Feb 2025 – Present · Lahore, Pakistan**  
-  - Building and maintaining scalable web applications using MERN/Next.js.  
-  - Collaborating with cross-functional teams to deliver robust features and improvements.
-
-- **Software Engineer — Forward Solutions**  
-  **Nov 2024 – Feb 2025 · Lahore, Pakistan**  
-  - Worked on full stack features, focusing on performance and code quality.  
-
-- **Freelance WordPress Developer — Fiverr**  
-  **Dec 2022 – Jun 2025**  
-  - Delivered custom WordPress websites and themes for clients across various industries.  
-  - Optimized sites for responsiveness, performance, and SEO.
-
-- **Junior Web Designer — Weblinks Builder**  
-  **Sep 2022 – Mar 2023 · Pakistan**  
-  - Assisted in designing and implementing web interfaces.  
-  - Gained hands-on experience with layout, UX, and front-end best practices.
-
----
-
-### 🎓 Education
-
-- **Bachelor's in Computer Science Engineering (CSE)**  
-  *Lincoln University College*  
-  **Oct 2022 – 2026**
-
-- **FSc Pre-Engineering**  
-  *Superior College*  
-  **Oct 2020 – Aug 2022**
-
----
-
-### 📜 Certifications
-
-- **Full Stack Web Development**  
-- **Full Stack Web Development Bootcamp by Dr. Angela Yu**  
-- **WordPress Essential Training**
-
----
-
-### 📫 Contact & Links
-
-- **Location:** Park View City, Tulip Block, Lahore  
-- **Mobile:** `0321-9100095`  
-- **Email:** `zaynobusiness@gmail.com`  
-- **Portfolio:** [`zayn-terminal.vercel.app`](https://zayn-terminal.vercel.app/)  
-- **GitHub:** [`github.com/hey-Zayn`](https://github.com/hey-Zayn)  
-- **LinkedIn:** [`linkedin.com/in/zayn-butt`](https://www.linkedin.com/in/zayn-butt)  
-
-If you’re working on something exciting or need help with **MERN/Next.js**, **interactive UIs**, or **full stack product development**, feel free to reach out — I’d love to collaborate.
+[<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
 
+
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+
+<!-- Grizzco: https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png -->
+<!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
+<!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
+<!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
+<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
+<!-- First steps with JavaScript: https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png -->
