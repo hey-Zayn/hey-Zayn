@@ -3,9 +3,9 @@
 > Full Stack Developer & Computer Science Student | Specializing in Secure, Modern Web Solutions
 > 
 > Want to know what I'm currently working on ?\
-> Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
+> Checkout [@Zayns's todos](#)
 > 
-> *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
+> *PS: I haven't been very active on [Github](https://github.com/hey-Zayn) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
 > - [ ]  I’m currently learning [`Cyber Security`](#)
 > - [x] All of my projects are available at [`My-Portfolio`](https://matcha.mizu.sh](https://zayn-terminal.vercel.app)) 
 > - [x]  Ask me about [`Mern Stack`](#), [`Next.js`](#), [`GSAP`](#), [`BASH`](#), [`Linux`](#).
