@@ -1,4 +1,4 @@
-> *👋 Hi , I'm Zayn!*
+*👋 Hi , I'm Zayn!*
 
 > Want to know what I'm currently working on ?\
 > Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
