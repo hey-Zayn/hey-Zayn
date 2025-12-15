@@ -33,7 +33,7 @@
 
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hey-zayn&show_icons=true&locale=en&layout=compact" alt="hey-zayn" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hey-zayn&show_icons=true&locale=en&layout=compact" alt="hey-zayn" /></p> -->
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hey-zayn&show_icons=true&locale=en" alt="hey-zayn" /></p> -->
