@@ -10,7 +10,7 @@
 > - [x] All of my projects are available at [`My-Portfolio`](https://matcha.mizu.sh](https://zayn-terminal.vercel.app)) 
 > - [x]  Ask me about [`Mern Stack`](#), [`Next.js`](#), [`GSAP`](#), [`BASH`](#), [`Linux`](#).
 > - [x]  How to reach me  [`zaynobusiness@gmail.com`](#)
-> - [x]  Fun fact   [`Speak Multiple Languages—Literally`](#)
+> - [x]  Fun fact   `→ Speak Multiple Languages—Literally`
 
 >   - → I'm working actively on this currently (updated 25 nov 2025)
 > 
