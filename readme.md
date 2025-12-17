@@ -1,6 +1,7 @@
 *👋 Hi , I'm Zayn!*
 
 > Full Stack Developer & Computer Science Student | Specializing in Secure, Modern Web Solutions
+> Software Engineer ⫸ Typescript, MERN Stack, Next.js ⫸ Bringing life to your web applications ⫸ CyberSecurity
 > 
 > Want to know what I'm currently working on ?\
 > Checkout [@Zayns's todos](#)
