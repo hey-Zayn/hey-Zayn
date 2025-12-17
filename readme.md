@@ -1,15 +1,16 @@
 *👋 Hi , I'm Zayn!*
 
-> Full Stack Developer & Computer Science Student | Specializing in Secure, Modern Web Solutions
-> Software Engineer ⫸ Typescript, MERN Stack, Next.js ⫸ Bringing life to your web applications ⫸ CyberSecurity
+> Full Stack Developer, ⫸ Computer Science Student ⫸ Typescript, MERN Stack, Next.js ⫸ Bringing life to your web applications ⫸ CyberSecurity
 > 
 > Want to know what I'm currently working on ?\
 > Checkout [@Zayns's todos](#)
 > 
 > *PS: I haven't been very active on [Github](https://github.com/hey-Zayn) recently, but it's still in the boxes, taking a bit longer than expected to build up the bricks !*
 > - [ ]  I’m currently learning `➡ Cyber Security.`
-> - [x] All of my projects are available at [`My-Portfolio`](https://matcha.mizu.sh](https://zayn-terminal.vercel.app)) 
-> - [x]  Ask me about `Mern Stack`, `Next.js`, `GSAP`, `BASH`, `Linux`.
+> - [x]  Ask me about `Mern Stack`, `Next.js`, `GSAP`, `BASH`, `Linux`, `Ai Automation`.
+> - [ ] Bachelor's degree in `Computer Science Engineering (CSE)`
+> - [x] CGPA: `3.6/4.0`
+> - [ ] All of my projects are available at [`My-Portfolio`](https://matcha.mizu.sh](https://zayn-terminal.vercel.app)) 
 > - [x]  How to reach me  [`zaynobusiness@gmail.com`](#)
 > - [x]  Fun fact   `→ Speak Multiple Languages—Literally`
 
