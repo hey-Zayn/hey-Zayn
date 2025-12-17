@@ -12,7 +12,7 @@
 > - [x]  How to reach me  [`zaynobusiness@gmail.com`](#)
 > - [x]  Fun fact   `→ Speak Multiple Languages—Literally`
 
->   - → I'm working actively on this currently (updated 25 nov 2025)
+>   - → I'm working actively on this currently (updated 16 Dec 2025)
 > 
 > *Thanks for your patience and continued support !*
 
