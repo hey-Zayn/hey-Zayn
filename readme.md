@@ -5,10 +5,10 @@
 > Want to know what I'm currently working on ?\
 > Checkout [@Zayns's todos](#)
 > 
-> *PS: I haven't been very active on [Github](https://github.com/hey-Zayn) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
-> - [ ]  I’m currently learning [`Cyber Security`](#)
+> *PS: I haven't been very active on [Github](https://github.com/hey-Zayn) recently, but it's still in the boxes, taking a bit longer than expected to build up the bricks !*
+> - [ ]  I’m currently learning `➡ Cyber Security.`
 > - [x] All of my projects are available at [`My-Portfolio`](https://matcha.mizu.sh](https://zayn-terminal.vercel.app)) 
-> - [x]  Ask me about [`Mern Stack`](#), [`Next.js`](#), [`GSAP`](#), [`BASH`](#), [`Linux`](#).
+> - [x]  Ask me about `Mern Stack`, `Next.js`, `GSAP`, `BASH`, `Linux`.
 > - [x]  How to reach me  [`zaynobusiness@gmail.com`](#)
 > - [x]  Fun fact   `→ Speak Multiple Languages—Literally`
 
