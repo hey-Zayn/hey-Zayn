@@ -18,39 +18,46 @@
 
 ---
 
-## `$ whoami`
-
-```bash
-┌──(zayn㉿dev)-[~]
-└─$ cat about.json
-```
-
-```json
-{
-  "name"        : "Zayn",
-  "role"        : "Full Stack Developer",
-  "education"   : "B.Sc. Computer Science Engineering — CGPA: 3.6 / 4.0",
-  "focus"       : ["MERN Stack", "Next.js", "TypeScript", "AI Automation", "CyberSecurity"],
-  "languages"   : ["Code", "English", "Urdu", "...and a few more 👀"],
-  "status"      : "🟢 Building in public — slowly but surely",
-  "portfolio"   : "https://zayn-terminal.vercel.app",
-  "contact"     : "zaynobusiness@gmail.com"
-}
-```
-
----
-
-## `$ cat current_status.log`
+## `$ cat about.conf`
 
 ```
-[✔] Sharpening CyberSecurity skills              ████████░░░░  65%
-[✔] Deepening Next.js & TypeScript mastery       ██████████░░  80%
-[✔] Exploring AI Automation & n8n workflows      ███████░░░░░  55%
-[✔] Finishing up GitHub — bricks still landing   █████░░░░░░░  40%
-```
+╭─────────────────────────────────────────────────────────────╮
+│  zayn@dev  ~                                      zsh  ✦    │
+╰─────────────────────────────────────────────────────────────╯
 
-> 🧱 *"Not very active on GitHub recently — but the bricks are going up, one by one."*
-> *(Last updated: Dec 2025)*
+  ███████╗ █████╗ ██╗   ██╗███╗   ██╗
+  ╚══███╔╝██╔══██╗╚██╗ ██╔╝████╗  ██║
+    ███╔╝ ███████║ ╚████╔╝ ██╔██╗ ██║
+   ███╔╝  ██╔══██║  ╚██╔╝  ██║╚██╗██║
+  ███████╗██║  ██║   ██║   ██║ ╚████║
+  ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝
+
+  ── identity ──────────────────────────────────────────────
+  name ............. Zayn
+  role ............. Full Stack Developer
+  degree ........... B.Sc. Computer Science Engineering
+  cgpa ............. 3.6 / 4.0
+  location ......... Pakistan
+  languages ........ Urdu · English · code
+
+  ── focus ─────────────────────────────────────────────────
+  primary .......... MERN Stack  ·  Next.js  ·  TypeScript
+  learning ......... CyberSecurity  ·  AI Automation
+  animation ........ GSAP  ·  Framer Motion
+  workflow ......... n8n  ·  Linux  ·  Bash scripting
+
+  ── current ───────────────────────────────────────────────
+  cybersecurity .... ████████░░░░  65%
+  next.js/ts ....... ██████████░░  80%
+  ai automation .... ███████░░░░░  55%
+  github rebuild ... █████░░░░░░░  40%
+
+  ── contact ───────────────────────────────────────────────
+  email ............ zaynobusiness@gmail.com
+  portfolio ........ zayn-terminal.vercel.app
+  github ........... @hey-Zayn
+  status ........... open to freelance & collab
+```
 
 ---
 
